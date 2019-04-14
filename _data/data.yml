@@ -178,22 +178,25 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Robot Operating System & Lisp & Prolog & Python
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Lisp
+        level: 90%
 
-      - name: Angular
-        level: 98%
+      - name: Java & JSF
+        level: 90%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Python
+        level: 80%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Android SDK
+        level: 60%
 
-      - name: Sketch & Photoshop
+      - name: Unity
+        level: 60%
+
+      - name: Gimp
         level: 60%
 
 footer: >
