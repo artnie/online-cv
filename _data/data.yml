@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Arthur Niedzwiecki
-    tagline: Computer Scientist
+    tagline: Robotics and Computer Scientist
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -35,7 +35,7 @@ sidebar:
         level: Rudimental
 
     interests:
-      - item: Improvised Theater
+      - item: Improvisational Theater
         link: https://zackenberg.de/
 
       - item: Music
@@ -47,84 +47,104 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
-
+      Arthur Niedzwiecki started his academic career as a mathematic engineer
+      in the courses of Technomathematics at the University of bremen. After a 
+      short while his passion for programming and information technologies grew, which lead
+      him to apply for a change of course, to Computer Science. After only two semesters he was hired
+      as an App Developer for a small company already, while simultaneously
+      giving classes in practical object-oriented programming at the university.
+      
+      Later in his Bachelors he was working as Web-Developer at a the 
+      custom-solutions company Encoway, gaining him significant insight in modern
+      project management and development processes. His vacation time he invested in joining a
+      testing team for a logistics application at Kühne & Nagel.
+      
+      Through several AI projects and intricate courses, leading to the Bachelors Degree and 
+      starting the Masters program he began to focus on robotics and intelligent systems, 
+      working for the Institute for Artificial Intelligence, where he is developing the 
+      cognitive architecture CRAM and giving lectures about robot programming to interested students.
+      
+      
+     
 education:
     - degree: MSc in Computer Science
       university: Universität Bremen
       time: 2018 - 2020
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        With the focus set on robotics, the masters program provides a wide variety of courses 
+        in intelligent systems, artificial intelligence, sensors and robotic systems. As with the 
+        bachelors degree, this study involved several projects in the corresponding fields.
 
     - degree: BSc in Computer Science
       university: Universität Bremen
       time: 2012 - 2018
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        Starting off with basic programming techniques, the study went on with
+        process management, practical real-world tasks and the science of cognitive systems.
+        The bachelors study was concluded by a complex robotics project and a thesis
+        about optimizing robot behaviour.
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+
+    - role: Researcher
+      time: 2016 - Present
+      company: Institute for Artificial Intelligence, Bremen
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Cognitive Robot Abstract Machine (CRAM) development.
 
-          - Bullet point
-          - Bullet point
+          - Artificial Intelligence Research
+          - Cognitive Science
+          - AI Algorithms
+          - Robotics
+          - Self-Regenrating Processes
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Robotics teacher
+      time: 2016 - Present
+      company: nstitute for Artificial Intelligence, Bremen
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Robot programming with Lisp.
 
-          - Bullet point
-          - Bullet point
+          - Robot Operating System (ROS)
+          - Education
+          - Robotics
+          - AI Algorithms
+          
+    - role: Web Developer
+      time: 2014 - 2016
+      company: Encoway, Bremen
+      details: |
+        Encoway concentrated on intelligent solutions for configuration problems. As a web developer
+        these solutions are to be implemented and provided to the customer. My tasks reached from the development
+        and maintainance of the web UI to the backend of the applications. The climate among collegues was
+        was very calm and corteous, the agile process management was good when I started and got even more 
+        efficient over time. 
+        
+          - Agile Techniques & Scrum
+          - Java Server Faces
+          - Spring
+          - Web Development
+          - Performance Analysis
+
+    - role: Tutor - OOP
+      time: 2012 - 2013
+      company: University of Bremen
+      details: |
+        Education and support of students from the University in the field of 
+        Object-Oriented Programing and general algorithms.
+
+          - OOP
+          - Teaching
+          - Algorithms
 
     - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+      time: 2012 - 2013
+      company: R1 Systemhaus, Bremen
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Refactoring and redesigning an application, forging it into a lightweight version in the Corona framework. 
+        The app served construction workers as a tool to supervise the safety at construction sides.
 
-          - Bullet point
-          - Bullet point
+          - App Development
+          - Corona SDK
 
 projects:
     title: Projects
