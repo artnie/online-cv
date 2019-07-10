@@ -47,16 +47,16 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Arthur Niedzwiecki started his academic career as a mathematic engineer
-      in the courses of Technomathematics at the University of bremen. After a 
-      short while his passion for programming and information technologies grew, which lead
+      Arthur Niedzwiecki started his academic career as a theoretical engineer
+      in the courses of Techno-Mathematics at the University of Bremen. After a 
+      short while his passion for programming and information technology grew, which lead
       him to apply for a change of course, to Computer Science. After only two semesters he was hired
-      as an App Developer for a small company already, while simultaneously
+      as an app developer for a small company already, while simultaneously
       giving classes in practical object-oriented programming at the university.
       
       Later in his Bachelors he was working as Web-Developer at a the 
       custom-solutions company Encoway, gaining him significant insight in modern
-      project management and development processes. His vacation time he invested in joining a
+      project management and development processes. He invested his vacation time in joining a
       testing team for a logistics application at Kühne & Nagel.
       
       Through several AI projects and intricate courses, leading to the Bachelors Degree and 
@@ -109,6 +109,15 @@ experiences:
           - Robotics
           - AI Algorithms
           
+    - role: Software Tester
+      time: 2016
+      company: Kühne & Nagel, Bremen
+      details: |
+        Thoroughly testing a complect software, used in large logistics companies.
+        
+          - Agile Techniques & Scrum
+          - Software testing
+         
     - role: Web Developer
       time: 2014 - 2016
       company: Encoway, Bremen
