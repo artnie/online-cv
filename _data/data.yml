@@ -158,30 +158,32 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Following are the projects I participated in.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
+      - title: SUTURO16
+        link: "https://github.com/suturo16"
+        tagline: "Program the PR2 robot in a household environment to clean the kitchen."
+        
+      - title: SUTURO17
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Invent and implement a catering service involving multiple robots "
 
-      - title: Tempo
+      - title: SUTURO18
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Attend the RoboCup@Home German Open in the domestic challenge, dealing with several everyday activity tasks."
 
-      - title: Atom
+      - title: ARDict
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Augented Reality Dictionary, developed at a hackathon in Denmark."
 
-      - title: Delta
+      - title: ClimateChange
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "A simulation for providing the experience of handling climate change based on a player-controlled economy and ecology."
+
+      - title: twio
+        link: "#"
+        tagline: "Combining Twitter with the "
 
 publications:
     title: Publications
