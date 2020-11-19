@@ -12,15 +12,15 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: aniedz@cs.uni-bremen.de
-    phone: +++
+    email: arthur.niedzwiecki@gmail.com
+    phone: 
     website: artnie.github.io/online-cv #do not add http://
     linkedin: aniedz
     github: artnie
     gitlab:
     bitbucket:
-    twitter: 'der_artikel'
-    stack-overflow: '10933716/arthur-nie' # Number/Username, e.g. 123456/alandoe
+    twitter: #'der_artikel'
+    stack-overflow: #'10933716/arthur-nie'
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
