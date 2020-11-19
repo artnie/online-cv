@@ -56,17 +56,17 @@ career-profile:
       hired him for in-depth UI testing of their software.
 
       At the advent of his Bachelor's degree he jointed the SUTURO Team (sudo-tidy-up-my-room), where he first got in touch with robots.
-      This student's project of 15 peopled aimed to program an autonomous mobile robot to fulfill complex object manipulation tasks 
+      This student's project of 15 people aimed to program an autonomous mobile robot to fulfill complex object manipulation tasks 
       in a pick & place manner. During and after this project he assisted the research staff of the Institute for Artificial Intelligence (IAI)
-      by maintaining and developing their cognitive Framework, applicable for real-world robots. For this institute he wrote his 
+      by maintaining and developing their cognitive framework. Within this institute he wrote his 
       Bachelor's thesis on transformational planning of robot's activities, optimizing a sequence of tasks by utilizing 
       knowledge about a robot's capabilities over time. Derived from his thesis he published a paper to the IEEE ICRA conference 
       in collaboration with a fellow researcher.
 
       As a post-graduate student his focus lied prominently on robotics and AI technologies. While still working with the IAI 
-      he attended the SUTURO project a second time, to broaden his scope onto several robots: the PR2 from Willow Garage, Pepper from Aldebaran 
+      he attended the SUTURO project a second time to broaden his scope to several robots: the PR2 from Willow Garage, Pepper from Aldebaran 
       and a home-made Roomba. His part in the project was to establish the communication between the PR2 and Pepper and maintain fail-safe
-      procedures during real-world execution. Simulatneously he started teaching undergraduate students in robot programming with Lisp, 
+      procedures during real-world execution. Simultaneously he started teaching undergraduate students in robot programming with Lisp, 
       incorporating real-world demonstrations of mapping, collision avoidance and path planning on the home-made Roomba.
 
       Even though not necessary for his studies he worked with the SUTURO Team a third time to attend the RoboCup challenge 2019 
@@ -77,7 +77,8 @@ career-profile:
       reactive procedures from the cognitive framework he worked on in the past years, with a physics engine, motion planner and 
       real-world contact forces to increase accuracy for autonomous robots doing intricate tasks in uncertain environments.
 
-            
+      With his experience on different fields in robotics, gained since 2016, Arthur Niedzwiecki is comfortable in a broad spectrum 
+      of their application, reaching from high-level control over knowledge representation to low-level sensor evaluation.
       
      
 education:
