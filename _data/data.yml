@@ -202,18 +202,18 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      
 
     papers:
       - title: Plan Tranformation for Autonomous Real-World Pick and Place Tasks
         authors: Arthur Niedzwiecki
         conference: University Bremen, 2018
+
     papers:
       - title: Towards Plan Transformations for Real-World Mobile Fetch and Place
         authors: Gayane Kazhoyane, Arthur Niedzwiecki, Michael Beetz
         conference: International Conference on Robotics and Automation, 2020
+
     papers:
       - title: Tactile-Based and Cognition-Enabled Manipulation for Real-World Assembly Tasks
         authors: Arthur Niedzwiecki
