@@ -202,7 +202,7 @@ projects:
 publications:
     title: Publications
     intro: |
-      
+      The following publications were made in association with the Institute for Artifical Intelligence.
 
     papers:
       - title: Plan Tranformation for Autonomous Real-World Pick and Place Tasks
