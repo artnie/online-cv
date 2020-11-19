@@ -29,14 +29,14 @@ sidebar:
         level: Native
 
       - idiom: English
-        level: Professional
+        level: Fluent
 
       - idiom: Polish
         level: Rudimental
 
     interests:
       - item: Improvisational Theater
-        link: https://zackenberg.de/
+        link: 
 
       - item: Music
         link:
@@ -47,23 +47,37 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Arthur Niedzwiecki started his academic career as a theoretical engineer
-      in the courses of Techno-Mathematics at the University of Bremen. After a 
-      short while his passion for programming and information technology grew, which lead
-      him to apply for a change of course, to Computer Science. After only two semesters he was hired
-      as an app developer for a small company already, while simultaneously
-      giving classes in practical object-oriented programming at the university.
-      
-      Later in his Bachelors he was working as Web-Developer at a the 
-      custom-solutions company Encoway, gaining him significant insight in modern
-      project management and development processes. He invested his vacation time in joining a
-      testing team for a logistics application at Kühne & Nagel.
-      
-      Through several AI projects and intricate courses, leading to the Bachelors Degree and 
-      starting the Masters program he began to focus on robotics and intelligent systems, 
-      working for the Institute for Artificial Intelligence, where he is developing the 
-      cognitive architecture CRAM and giving lectures about robot programming to interested students.
-      
+      Arthur Niedzwiecki found his passion for computer science in his second year at the University of Bremen.
+      Soon he was hired as software developer for an app, utilizing mobile devices of construction workers 
+      to ease maintainance of their workplace. In the meantime he schooled undergraduate students in Object Oriented Programming
+      and common algorithms. Later, still a undergraduate student himself, he worked several years for Encoway, 
+      developing front- and backend solutions for complex product configurations, gaining experience in state-of-the-art 
+      agile development mechanisms. During a few weeks of vacation the international logistics company Kühne & Nagel 
+      hired him for in-depth UI testing of their software.
+
+      At the advent of his Bachelor's degree he jointed the SUTURO Team (sudo-tidy-up-my-room), where he first got in touch with robots.
+      This student's project of 15 peopled aimed to program an autonomous mobile robot to fulfill complex object manipulation tasks 
+      in a pick & place manner. During and after this project he assisted the research staff of the Institute for Artificial Intelligence (IAI)
+      by maintaining and developing their cognitive Framework, applicable for real-world robots. For this institute he wrote his 
+      Bachelor's thesis on transformational planning of robot's activities, optimizing a sequence of tasks by utilizing 
+      knowledge about a robot's capabilities over time. Derived from his thesis he published a paper to the IEEE ICRA conference 
+      in collaboration with a fellow researcher.
+
+      As a post-graduate student his focus lied prominently on robotics and AI technologies. While still working with the IAI 
+      he attended the SUTURO project a second time, to broaden his scope onto several robots: the PR2 from Willow Garage, Pepper from Aldebaran 
+      and a home-made Roomba. His part in the project was to establish the communication between the PR2 and Pepper and maintain fail-safe
+      procedures during real-world execution. Simulatneously he started teaching undergraduate students in robot programming with Lisp, 
+      incorporating real-world demonstrations of mapping, collision avoidance and path planning on the home-made Roomba.
+
+      Even though not necessary for his studies he worked with the SUTURO Team a third time to attend the RoboCup challenge 2019 
+      in Magdeburg for domestic application of autonomous robots, providing a knowledge ontology and general expertise in developing an
+      embedded system for the Toyota HSR robot. This challenge was an ideal opportunity to connect with foreign researchers and gain experience
+      on contemporary applications. To conclude his post-graduate degree he implemented force feedback reasoning for assembly tasks,
+      executed by yet another home-made autonomous mobile robot, equipped with LWR-4+ KUKA lightweight arms. His work combines 
+      reactive procedures from the cognitive framework he worked on in the past years, with a physics engine, motion planner and 
+      real-world contact forces to increase accuracy for autonomous robots doing intricate tasks in uncertain environments.
+
+            
       
      
 education:
@@ -72,8 +86,8 @@ education:
       time: 2018 - 2020
       details: |
         With the focus set on robotics, the masters program provides a wide variety of courses 
-        in intelligent systems, artificial intelligence, sensors and robotic systems. As with the 
-        bachelors degree, this study involved several projects in the corresponding fields.
+        in intelligent systems, artificial intelligence, sensors and robotic systems. Concluding the post-graduate program
+        a thesis was developed, to increase accuracy of autonomous mobile robots in uncertain environments.
 
     - degree: BSc in Computer Science
       university: Universität Bremen
@@ -87,7 +101,7 @@ education:
 experiences:
 
     - role: Researcher
-      time: 2016 - Present
+      time: 2016 - 2020
       company: Institute for Artificial Intelligence, Bremen
       details: |
         Cognitive Robot Abstract Machine (CRAM) development.
@@ -99,8 +113,8 @@ experiences:
           - Self-Regenrating Processes
 
     - role: Robotics teacher
-      time: 2016 - Present
-      company: nstitute for Artificial Intelligence, Bremen
+      time: 2016 - 2019
+      company: Institute for Artificial Intelligence, Bremen
       details: |
         Robot programming with Lisp.
 
@@ -162,7 +176,7 @@ projects:
 
     assignments:
       - title: SUTURO16
-        link: "https://github.com/suturo16"
+        link: "#"
         tagline: "Program the PR2 robot in a household environment to clean the kitchen."
         
       - title: SUTURO17
@@ -175,7 +189,7 @@ projects:
 
       - title: ARDict
         link: "#"
-        tagline: "Augented Reality Dictionary, developed at a hackathon in Denmark."
+        tagline: "Augented Reality Dictionary for Android phones, developed at a hackathon in Denmark."
 
       - title: ClimateChange
         link: "#"
@@ -183,7 +197,7 @@ projects:
 
       - title: twio
         link: "#"
-        tagline: "Combining Twitter with the "
+        tagline: "Android App, extending the Twitter library to find similar sources of information."
 
 publications:
     title: Publications
@@ -193,23 +207,23 @@ publications:
       bibendum fringilla a eu lectus.
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Plan Tranformation for Autonomous Real-World Pick and Place Tasks
+        authors: Arthur Niedzwiecki
+        conference: University Bremen, 2018
+    papers:
+      - title: Towards Plan Transformations for Real-World Mobile Fetch and Place
+        authors: Gayane Kazhoyane, Arthur Niedzwiecki, Michael Beetz
+        conference: International Conference on Robotics and Automation, 2020
+    papers:
+      - title: Tactile-Based and Cognition-Enabled Manipulation for Real-World Assembly Tasks
+        authors: Arthur Niedzwiecki
+        conference: University of Bremen, 2020
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Robot Operating System & Lisp & Prolog & Python
+      - name: Robot Operating System
         level: 98%
 
       - name: Lisp
@@ -221,13 +235,7 @@ skills:
       - name: Python
         level: 80%
 
-      - name: Android SDK
-        level: 60%
-
-      - name: Unity
-        level: 60%
-
-      - name: Gimp
+      - name: Android Studio & C++ & Prolog & Ontologies
         level: 60%
 
 footer: >
