@@ -189,7 +189,9 @@ projects:
         tagline: "Invent and implement a catering service involving multiple robots "
 
       - title: SUTURO18
-        link: "#"
+        link: "#"footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+
         tagline: "Attend the RoboCup@Home German Open in the domestic challenge, dealing with several everyday activity tasks."
 
       - title: ARDict
@@ -241,3 +243,5 @@ skills:
       - name: Android Studio & C++ & Prolog & Ontologies
         level: 60%
 
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
