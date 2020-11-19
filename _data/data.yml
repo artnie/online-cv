@@ -193,7 +193,7 @@ projects:
 
       - title: ClimateChange
         link: "#"
-        tagline: "A simulation for providing the experience of handling climate change based on a player-controlled economy and ecology."
+        tagline: "A simulation for providing the experience of handling climate change based on a player-controlled economy and ecology, build in Unity."
 
       - title: twio
         link: "#"
