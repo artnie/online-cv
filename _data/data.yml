@@ -56,21 +56,21 @@ career-profile:
       
      
 education:
-    - degree: Master of Science in "AI, Cognition and Robotics"
+    - degree: Master of Science in AI, Cognition and Robotics
       university: Universität Bremen
-      time: 2018 - 2020
+      time: Mai 2018 - December 2020
       details: |
         Tactile-Based and Cognition-Enabled Manipulation for Real World Assembly Tasks 
         
-        Improve the precision of mobile robots in industrial assemby environments.
+        (Improve the precision of mobile robots in industrial assemby environments)
 
     - degree: Bachelor of Science in Computer Science
       university: Universität Bremen
-      time: 2012 - 2018
+      time: October 2012 - April 2018
       details: |
         Plan-Transformation for Autonomous Real World Pick and Place Tasks
         
-        How household-robots autonomously improve their behavior
+        (How household-robots autonomously improve their behavior)
 
 experiences:
 
