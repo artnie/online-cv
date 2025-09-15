@@ -7,7 +7,7 @@ sidebar:
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Arthur Niedzwiecki
+    name: Arthur Niedźwiecki
     tagline: Robot Scientist
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -35,7 +35,7 @@ sidebar:
         level: Basics
 
     interests:
-      - item: Historic European Martial Arts (HEMA)
+      - item: Historical European Martial Arts (HEMA)
         link: http://www.klopffechters-erben.de/
       
       - item: Live Action Roleplay
@@ -44,13 +44,13 @@ sidebar:
       - item: Classical Spanish Guitar
         link: https://www.instagram.com/arthurthatsme
         
-      - item: Baking Bread
+      - item: Medieval Dancing
         link: 
 
 career-profile:
     title: Career Profile
     summary: |
-     I am Arthur Niedzwiecki, a researcher in Robotics and Artificial Intelligence.
+     I am Arthur Niedźwiecki, a researcher in Robotics and Artificial Intelligence.
      My work focuses on cognitive robotic systems, semantic digital twins, and autonomous action planning. Alongside research, I bring extensive teaching experience, proven success in acquiring third-party funding, and a strong international network within the robotics community.
      My goal: to shape the future of intelligent, collaborative robots at the intersection of science, industry, and society.
       
@@ -60,11 +60,9 @@ education:
       university: Universität Bremen
       time: 2018 - 2020
       details: |
-        With the focus set on robotics, the masters program provides a wide variety of courses 
-        in intelligent systems, artificial intelligence, sensors and robotic systems. Concluding the post-graduate program
-        a thesis was developed, to increase accuracy of autonomous mobile robots in uncertain environments.
+        Tactile-Based and Cognition-Enabled Manipulation for Real World Assembly Tasks
 
-    - degree: BSc in Computer Science
+    - degree: B.Sc. in Computer Science
       university: Universität Bremen
       time: 2012 - 2018
       details: |
