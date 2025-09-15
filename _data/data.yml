@@ -31,18 +31,21 @@ sidebar:
       - idiom: English
         level: Fluent
 
-      - idiom: Polish
-        level: Rudimental
+      - idiom: Greek, Polish, Spanish
+        level: Basics
 
     interests:
-      - item: Improvisational Theater
+      - item: Historic European Martial Arts (HEMA)
+        link: http://www.klopffechters-erben.de/
+      
+      - item: Live Action Roleplay
+        link: https://www.zackenberg.de/
+
+      - item: Classical Spanish Guitar
+        link: https://www.instagram.com/arthurthatsme
+        
+      - item: Baking Bread
         link: 
-
-      - item: Music
-        link:
-
-      - item: Bicycles
-        link:
 
 career-profile:
     title: Career Profile
