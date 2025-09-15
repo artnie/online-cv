@@ -60,7 +60,9 @@ education:
       university: Universität Bremen
       time: 2018 - 2020
       details: |
-        Tactile-Based and Cognition-Enabled Manipulation for Real World Assembly Tasks
+        Tactile-Based and Cognition-Enabled Manipulation for Real World Assembly Tasks 
+        |
+        Improve the precision of mobile robots in industrial assemby environments.
 
     - degree: B.Sc. in Computer Science
       university: Universität Bremen
