@@ -55,6 +55,12 @@ career-profile:
      My goal: to shape the future of intelligent, collaborative robots at the intersection of science, industry, and society.
 
 education:
+    - degree: PhD Computer Science
+      university: Universität Bremen
+      time: Juli 2021 - Juni 2026
+      details: |
+        Deliberate Thinking for Autonomous Robots
+        
     - degree: Master of Science in AI, Cognition and Robotics
       university: Universität Bremen
       time: May 2018 - December 2020
